@@ -1,4 +1,4 @@
-#Python Client for Segmind APIs
+Python Client for Segmind APIs
 
 A comprehensive Python client for interacting with Segmind's AI models and APIs. This package provides easy access to various generative AI models offered by Segmind, including text-to-image, image-to-image, background removal, face enhancement, and more.
 
