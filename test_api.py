@@ -14,7 +14,7 @@ class TestSegmindAPI(unittest.TestCase):
     
     def setUp(self):
         """Set up test fixtures."""
-        self.api_key = "SG_14ad6b22f5e1342e"  # Test API key
+        self.api_key = ""  # Test API key
         self.api = SegmindAPI(self.api_key)
     
     def test_init_with_api_key(self):
