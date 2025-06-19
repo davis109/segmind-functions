@@ -7,6 +7,8 @@ A comprehensive Python client for interacting with Segmind's AI models and APIs.
 ```bash
 pip install -e .
 ```
+![image](https://github.com/user-attachments/assets/3a9c4e45-3918-48fc-be4a-eea3c72131aa)
+
 ![image](https://github.com/user-attachments/assets/fc0a93b8-409b-42b7-bafe-bd540fbfe404)
 
 
