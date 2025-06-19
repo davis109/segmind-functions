@@ -7,7 +7,8 @@ A comprehensive Python client for interacting with Segmind's AI models and APIs.
 ```bash
 pip install -e .
 ```
-![image](https://github.com/user-attachments/assets/47212355-46a5-4e7a-933c-2d5047187a7c)
+![image](https://github.com/user-attachments/assets/fc0a93b8-409b-42b7-bafe-bd540fbfe404)
+
 
 
 The Segmind API implements rate limiting to ensure fair usage. If you encounter a `429 Too Many Requests` error, it means you've exceeded the allowed number of requests in a given time period. Here are some strategies to handle rate limits:
